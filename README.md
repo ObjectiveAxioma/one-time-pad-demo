@@ -1,2 +1,1 @@
-# One-Time-Pad-Demo
-# One-Time-Pad-Demo
+# one-time-pad-demo
